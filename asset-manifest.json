@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RK-Portfolio-Automation/static/css/main.1aa07314.css",
-    "main.js": "/RK-Portfolio-Automation/static/js/main.b0579ce1.js",
+    "main.js": "/RK-Portfolio-Automation/static/js/main.5f366648.js",
     "static/js/453.549fd677.chunk.js": "/RK-Portfolio-Automation/static/js/453.549fd677.chunk.js",
     "static/media/DSC_9812.JPG": "/RK-Portfolio-Automation/static/media/DSC_9812.d29f595fc9b6490b5ce3.JPG",
     "static/media/DSC_9568.JPG": "/RK-Portfolio-Automation/static/media/DSC_9568.54c9a107c929ed3ec487.JPG",
@@ -10,11 +10,11 @@
     "static/media/Leadership.jpeg": "/RK-Portfolio-Automation/static/media/Leadership.9c94658bb4a23f51f70f.jpeg",
     "index.html": "/RK-Portfolio-Automation/index.html",
     "main.1aa07314.css.map": "/RK-Portfolio-Automation/static/css/main.1aa07314.css.map",
-    "main.b0579ce1.js.map": "/RK-Portfolio-Automation/static/js/main.b0579ce1.js.map",
+    "main.5f366648.js.map": "/RK-Portfolio-Automation/static/js/main.5f366648.js.map",
     "453.549fd677.chunk.js.map": "/RK-Portfolio-Automation/static/js/453.549fd677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aa07314.css",
-    "static/js/main.b0579ce1.js"
+    "static/js/main.5f366648.js"
   ]
 }
